@@ -34,7 +34,6 @@
 		CE85A6E52803C9120046EDAD /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE85A6E32803C9110046EDAD /* PostCell.swift */; };
 		CE85A6E62803C9120046EDAD /* PostCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE85A6E42803C9120046EDAD /* PostCell.xib */; };
 		CEC9E2E12800212100D87F34 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC9E2E02800212100D87F34 /* Post.swift */; };
-		CEEC1E0B28055089005EDD0F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CEEC1E0A28055089005EDD0F /* GoogleService-Info.plist */; };
 		CEF944A1280B8553003E6262 /* VARIABLES.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEF944A0280B8553003E6262 /* VARIABLES.swift */; };
 /* End PBXBuildFile section */
 
@@ -63,7 +62,6 @@
 		CE85A6E32803C9110046EDAD /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		CE85A6E42803C9120046EDAD /* PostCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PostCell.xib; sourceTree = "<group>"; };
 		CEC9E2E02800212100D87F34 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
-		CEEC1E0A28055089005EDD0F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		CEF944A0280B8553003E6262 /* VARIABLES.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VARIABLES.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -124,7 +122,6 @@
 		CE64604627FB95D100327B69 /* SocialMediaApp */ = {
 			isa = PBXGroup;
 			children = (
-				CEEC1E0A28055089005EDD0F /* GoogleService-Info.plist */,
 				CE64605327FB95D600327B69 /* Assets.xcassets */,
 				CE64605527FB95D600327B69 /* LaunchScreen.storyboard */,
 				CE64605827FB95D600327B69 /* Info.plist */,
@@ -248,7 +245,6 @@
 			files = (
 				CE85A6E62803C9120046EDAD /* PostCell.xib in Resources */,
 				CE64605727FB95D600327B69 /* LaunchScreen.storyboard in Resources */,
-				CEEC1E0B28055089005EDD0F /* GoogleService-Info.plist in Resources */,
 				CE64605427FB95D600327B69 /* Assets.xcassets in Resources */,
 				CE64604F27FB95D100327B69 /* Main.storyboard in Resources */,
 			);
