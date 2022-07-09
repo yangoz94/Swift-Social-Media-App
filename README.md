@@ -1,1 +1,1 @@
-# Swift-Social-Media-App
+# csci_6221-repo_2022spring_group2
