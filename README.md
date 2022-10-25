@@ -10,11 +10,11 @@ The goal of this class project is to build a social media app prototype for IOS 
 
 <img width="362" alt="Screen Shot 2022-10-24 at 7 54 57 PM" src="https://user-images.githubusercontent.com/95255319/197652018-e6b92692-ad84-47b6-a5c0-fb69db98954e.png">
 
-#Login Page
+# Login Page
 
 <img width="362" alt="Screen Shot 2022-10-24 at 7 55 29 PM" src="https://user-images.githubusercontent.com/95255319/197652034-31eec557-e647-42d4-9595-e49eb368aefe.png">
 
-#In-App Messaging - Menu
+# In-App Messaging - Menu
 
 <img width="362" alt="Screen Shot 2022-10-24 at 8 00 22 PM" src="https://user-images.githubusercontent.com/95255319/197652198-2664b045-634e-4f26-a1e9-b8271077fb16.png">
 
