@@ -18,7 +18,7 @@ The goal of this class project is to build a social media app prototype for IOS 
 
 <img width="362" alt="Screen Shot 2022-10-24 at 8 00 22 PM" src="https://user-images.githubusercontent.com/95255319/197652198-2664b045-634e-4f26-a1e9-b8271077fb16.png">
 
-#In-App Messaging - Chat History
+# In-App Messaging - Chat History
 
 <img width="362" alt="Screen Shot 2022-10-24 at 7 55 45 PM" src="https://user-images.githubusercontent.com/95255319/197652840-f7ff82c7-e8e9-45ca-915d-56bd554d91a9.png">
 
